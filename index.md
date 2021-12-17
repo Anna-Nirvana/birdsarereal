@@ -25,12 +25,8 @@ Point your phone at the artwork for more.
 _When you are finished, turn left and walk up to the pavilion. Stop among the colorful sculptures._
 
 
-## Nest
-If you're a bird, you're **OVIPAROUS** -- that means you start out your life in a comfy little egg. Well, little if you're a hummingbird––only about 1/2 an inch long––but not if you're an ostrich. A single ostrich egg can weigh up to five pounds.
-
-Tree swallows lay bright pink eggs.
-
-Mourning doves are the speediest nest builders, putting together a complete crib in as little as two days. 
+## Nest the Best
+If you're a bird, you're **OVIPAROUS** -- that means you start out your life in a comfy little egg. Well, little if you're a hummingbird––only about 1/2 an inch long––but not if you're an ostrich. A single ostrich egg can weigh up to five pounds. Tree swallows lay bright pink eggs. Mourning doves are the speediest nest builders, putting together a complete crib in as little as two days. 
 
 _When you feel like hatching, cross over the pavillion and make your way to Nightingale Hall._
 
@@ -51,7 +47,7 @@ _Hey, enjoy the library while you're here. Maybe you'd like to read more about b
 _Cool. You learned so much. Head back toward Forsyth street and stand between Ruggles Station and Ryder Hall._
 
 ## Paper Crane
-Origami paper cranes, or _Orizuru_, represent the Japanese red-crowned crane, which are said to carry souls to paradise. 
+Origami paper cranes, or _orizuru_, represent the Japanese red-crowned crane, which are said to carry souls to paradise. 
 
 Red crowned cranes eat everything and mate for life -- and the Japanese population is the only one that doesn't migrate. Sounds like they definitely found paradise.
 
@@ -64,3 +60,23 @@ Birds are living dinosaurs. Which dinosaur in this mural do you think they're mo
 If you guessed the pterodactyl, you're in good company. That's what scientists used to think, too. Turns out that pterodactyls are closer to reptiles, while modern day birds evolved from a lineage of small theropods, a group whose larger members included the T. rex.
 
 __That's all we've got for now. Go appreciate some geese. Then maybe you'd like to tweet about it?__
+
+
+_Asset Credits_
+Feathers
+"Birds feather" (https://skfb.ly/ooAXF) by Idmental is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Egg
+"Egg" (https://skfb.ly/6uALr) by joe_carrot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Wing types diagram
+Jenn Deutscher, _Alithographica_
+
+Paper crane
+"Origami Paper Crane on String" (https://skfb.ly/6xVAZ) by Ryley Burnett is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Paper crane image
+Ray Hems, _Eco Kids Planet_
+
+Theropod
+"BDA4 [Amorphous Theropod]" (https://skfb.ly/6WPEH) by Hattoman is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
