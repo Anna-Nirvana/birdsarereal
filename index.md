@@ -61,8 +61,7 @@ If you guessed the pterodactyl, you're in good company. That's what scientists u
 
 __That's all we've got for now. Go appreciate some geese. Then maybe you'd like to tweet about it?__
 
-
-_Asset Credits_
+## Asset Credits
 Feathers
 "Birds feather" (https://skfb.ly/ooAXF) by Idmental is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
@@ -80,3 +79,4 @@ Ray Hems, _Eco Kids Planet_
 
 Theropod
 "BDA4 [Amorphous Theropod]" (https://skfb.ly/6WPEH) by Hattoman is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
