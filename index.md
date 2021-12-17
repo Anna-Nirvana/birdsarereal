@@ -51,7 +51,7 @@ _Hey, enjoy the library while you're here. Maybe you'd like to read more about b
 _Cool. You learned so much. Head back toward Forsyth street and stand between Ruggles Station and Ryder Hall._
 
 ## Paper Crane
-Japanese paper cranes, or _Orizuru_, represent the Japanese red-crowned crane, which are said to carry souls to paradise. 
+Origami paper cranes, or _Orizuru_, represent the Japanese red-crowned crane, which are said to carry souls to paradise. 
 
 Red crowned cranes eat everything and mate for life -- and the Japanese population is the only one that doesn't migrate. Sounds like they definitely found paradise.
 
