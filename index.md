@@ -1,7 +1,7 @@
 
 # Birds Are Real!
 
-### Welcome to the Birds Are Real Experiment at Northeastern University.
+### Welcome to Birds Are Real -- a Short Migration Through Northeastern University.
 
 To get started:
 
@@ -25,8 +25,8 @@ Point your phone at the artwork for more.
 _When you are finished, turn left and walk up to the pavilion. Stop among the colorful sculptures._
 
 
-## Time to nest!
-If you're a bird, you start out your life in a comfy little egg. That makes you **OVIPAROUS**. Well, little if you're a hummingbird––only about 1/2 an inch long––but not if you're an ostrich. A single ostrich egg can weigh up to five pounds.
+## Nest
+If you're a bird, you're **OVIPAROUS** -- that means you start out your life in a comfy little egg. Well, little if you're a hummingbird––only about 1/2 an inch long––but not if you're an ostrich. A single ostrich egg can weigh up to five pounds.
 
 Tree swallows lay bright pink eggs.
 
@@ -63,3 +63,4 @@ Birds are living dinosaurs. Which dinosaur in this mural do you think they're mo
 
 If you guessed the pterodactyl, you're in good company. That's what scientists used to think, too. Turns out that pterodactyls are closer to reptiles, while modern day birds evolved from a lineage of small theropods, a group whose larger members included the T. rex.
 
+__That's all we've got for now. Go appreciate some geese. Then maybe you'd like to tweet about it?__
