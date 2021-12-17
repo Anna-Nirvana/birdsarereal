@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Anna-Nirvana/birdsarereal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+# Birds Are Real!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Welcome to the Birds Are Real Experiment at Northeastern University.
 
-### Jekyll Themes
+To get started:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anna-Nirvana/birdsarereal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.  **Download** the 'Hoverlay' app from the Google Play store or Apple App Store.
+2.  Make your way to **Cargill Hall** at 45 Forsyth St, Boston, MA 02115. **Stand on Huntington Avenue** facing southeast.
+3.  Open the app and click the 'search' button. **Look for _solarWave_ and 'tune in' to that channel.**
+4.  *Keep this page open* on your phone or tablet. Read each section.
+5.  Look for birds. Point your phone at them. Magic happens.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](src)
+```
