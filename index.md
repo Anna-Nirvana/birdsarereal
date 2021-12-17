@@ -13,7 +13,7 @@ To get started:
 
 
 
-#Birds are real!
+## Birds are real!
 From Huntington Avenue, face southeast. What do you see? What do you hear?
 
 Welcome to a "bird's eye view" tour of campus. We'll be exploring the wonders of our avian relatives - acknowledging their existence - and appreciating some of Northeastern's beautiful artwork along the way.
@@ -25,7 +25,7 @@ Point your phone at the artwork for more.
 _When you are finished, turn left and walk up to the pavilion. Stop among the colorful sculptures._
 
 
-#Time to nest!
+## Time to nest!
 If you're a bird, you start out your life in a comfy little egg. That makes you **OVIPAROUS**. Well, little if you're a hummingbird––only about 1/2 an inch long––but not if you're an ostrich. A single ostrich egg can weigh up to five pounds.
 
 Tree swallows lay bright pink eggs.
@@ -39,7 +39,7 @@ Birds have coexisted with humans for as long as we've been around, fascinating c
 
 _When you've thrown caution to the wind, make your way to Snell Library. Take the elevator to the third floor and turn around._
 
-#Going Up
+## Going Up
 During the Covid-19 pandemic, we looked to the skies. Many people developed new hobbies and were able to enjoy the outdoors more often, and birding became a popular hobby. This elevator door artwork has data hidden within it. The bird silhouettes in the sky represent birding data as reported to citizen science database iNaturalist in 2019 (left door) and 2020 (right door). Each shape is scaled to the size of the number of observations for each group. Do you recognize any of the shapes of the most frequent(ly seen) flyers?
 
 Crows, jays and ravens (a family called **corvids**), flycatchers, grosbeaks, sparrows, warblers, woodpeckers and wrens made it to the top of the list in 2020.
@@ -50,14 +50,14 @@ _Hey, enjoy the library while you're here. Maybe you'd like to read more about b
 
 _Cool. You learned so much. Head back toward Forsyth street and stand between Ruggles Station and Ryder Hall._
 
-#Paper Crane
+## Paper Crane
 Japanese paper cranes, or _Orizuru_, represent the Japanese red-crowned crane, which are said to carry souls to paradise. 
 
 Red crowned cranes eat everything and mate for life -- and the Japanese population is the only one that doesn't migrate. Sounds like they definitely found paradise.
 
 _When you're ready, carry your soul behind you, across the quad to the exterior of the Behrakis Center (on the other side of Ryder Hall)._
 
-#Humble Beginnings
+## (Not so) Humble Beginnings
 
 Birds are living dinosaurs. Which dinosaur in this mural do you think they're most closely descended from?
 
