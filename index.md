@@ -34,7 +34,7 @@ Mourning doves are the speediest nest builders, putting together a complete crib
 
 _When you feel like hatching, cross over the pavillion and make your way to Nightingale Hall._
 
-#Let Your Beak Flag Fly
+## Let Your Beak Flag Fly
 Birds have coexisted with humans for as long as we've been around, fascinating cultures around the world with their beauty and symbolism. At least nine countries sport eagles on their modern day flags, a symbol of strength, courage, and freedom. How many can you find in this mural?
 
 _When you've thrown caution to the wind, make your way to Snell Library. Take the elevator to the third floor and turn around._
@@ -57,7 +57,7 @@ Red crowned cranes eat everything and mate for life -- and the Japanese populati
 
 _When you're ready, carry your soul behind you, across the quad to the exterior of the Behrakis Center (on the other side of Ryder Hall)._
 
-## (Not so) Humble Beginnings
+## (Not So) Humble Beginnings
 
 Birds are living dinosaurs. Which dinosaur in this mural do you think they're most closely descended from?
 
