@@ -5,10 +5,10 @@
 
 To get started:
 
-1.  **Download** the 'Hoverlay' app from the Google Play store or Apple App Store.
+1.  **Download** the _Hoverlay_ app from the Google Play store or Apple App Store.
 2.  Make your way to **Cargill Hall** at 45 Forsyth St, Boston, MA 02115. **Stand on Huntington Avenue** facing southeast.
 3.  Open the app and click the 'search' button. **Look for _solarWave_ and 'tune in' to that channel.**
-4.  *Keep this page open* on your phone or tablet. Read each section.
-5.  Look for birds. Point your phone at them. Magic happens.
+4.  **Keep this page open** on your phone or tablet. Read each section.
+5.  Look for birds. Point your phone at them. **Magic happens.**
 
-![Image](src)
+![Image of painted mural of Jay and cardinal](/IMG_20211216_151201.jpg "Jay and cardinal")
