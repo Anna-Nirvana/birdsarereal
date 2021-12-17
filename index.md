@@ -11,4 +11,4 @@ To get started:
 4.  **Keep this page open** on your phone or tablet. Read each section.
 5.  Look for birds. Point your phone at them. **Magic happens.**
 
-![Image of painted mural of Jay and cardinal](/IMG_20211216_151201.jpg "Jay and cardinal")
+![Image of painted mural of Jay and cardinal](src/IMG_20211216_151201.jpg "Jay and cardinal")
