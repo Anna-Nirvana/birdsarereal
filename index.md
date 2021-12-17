@@ -1,4 +1,4 @@
-```
+
 # Birds Are Real!
 
 ### Welcome to the Birds Are Real Experiment at Northeastern University.
@@ -12,4 +12,3 @@ To get started:
 5.  Look for birds. Point your phone at them. Magic happens.
 
 ![Image](src)
-```
